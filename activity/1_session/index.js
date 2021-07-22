@@ -1,3 +1,12 @@
+
+class claseA{
+    constructor(foo, bar){
+        this.foo = foo;
+        this.bar = bar;
+    }
+}
+
+
 // Ejercicio 1
 
 console.log("Ejercicio 1");
